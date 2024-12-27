@@ -1,4 +1,4 @@
-### Study-of-basic-gates ###
+### Study-of-Basic-Gates ###
 
 **AIM:** 
 
@@ -66,7 +66,7 @@ Y= A⊕B
 
 ![image](https://github.com/user-attachments/assets/aa6af191-1b7f-4f97-b7df-8d3362fe3adc)
 
-![image](https://github.com/user-attachments/assets/965d3b75-58bd-49fd-a11b-9515728e3307)
+![image](https://github.com/user-attachments/assets/572b42af-3729-4c38-bbce-c59b075515b5)
 
 **PROGRAM:**
 
